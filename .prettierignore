@@ -12,6 +12,7 @@
 /build
 
 # misc
+/src/lib/constants/testing
 .DS_Store
 .env.local
 .env.development.local
